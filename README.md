@@ -13,11 +13,3 @@ A real-time interactive stock analysis dashboard for NSE equities built with Str
 - 📥 **CSV Export** of processed stock data
 
 ---
-
-## 🚀 How to Run
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/Real-Time-NSE-Stock-Analysis-Dashboard.git
-cd Real-Time-NSE-Stock-Analysis-Dashboard
